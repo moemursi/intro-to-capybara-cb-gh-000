@@ -13,7 +13,7 @@ In this lesson, we'll discuss integration testing with Capybara.
 5. Read a Capybara test that interacts with HTML.
 6. Read a Capybara test that submits an HTML form.
 
-## The MVC Framework
+## The MVC Frameworkd
 
 There are three basic levels of testing that correspond to the different levels of our application stack in Model-View-Controller architecture.
 
